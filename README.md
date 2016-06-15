@@ -30,22 +30,22 @@ This is a wonderful resource that gives you examples of many different layouts a
 [A collection of patterns & modules for responsive emails](http://responsiveemailpatterns.com/)
 
 ####Most Up To Date Responsive Layout Email Articles
-[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
+[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)	
 [RESPONSIVE EMAILS THAT REALLY WORK](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/)
 
 ####Email Started Kit
-[Started Kit for HTML Emails](https://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails)
+[Started Kit for HTML Emails](https://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails)	
 [Coding Emails Doesn't Have to Be Painful](https://seesparkbox.com/foundry/coding_emails_doesnt_have_to_be_painful)
 
 ####Campaign Monitor - GUIDES
-[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
-[MOBILE RESPONSIVE EMAILS](http://www.campaignmonitor.com/guides/mobile/) 
-[WILL IT WORK](https://www.campaignmonitor.com/resources/will-it-work/)
+[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)	
+[MOBILE RESPONSIVE EMAILS](http://www.campaignmonitor.com/guides/mobile/)		
+[WILL IT WORK](https://www.campaignmonitor.com/resources/will-it-work/)			
 [CSS SUPPORT](http://www.campaignmonitor.com/css/)
 
 ####MailChimp - GUIDES
-[MAILCHIMP TEMPLATE TIPS - EMAIL DESIGN](http://templates.mailchimp.com/design/)
-[MAILCHIMP TEMPLATE TIPS - EMAIL DEVELOPMENT](http://templates.mailchimp.com/development/)
+[MAILCHIMP TEMPLATE TIPS - EMAIL DESIGN](http://templates.mailchimp.com/design/)		
+[MAILCHIMP TEMPLATE TIPS - EMAIL DEVELOPMENT](http://templates.mailchimp.com/development/)		
 
 ####Litmus - Templates Useful for pulling HTML for layout
 [LITMUS TEMPLATES - HTML DOWNLOADS](https://litmus.com/community/templates)
