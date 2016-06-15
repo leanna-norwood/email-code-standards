@@ -1,1 +1,1 @@
-# email-code-standards
+# Email Code Standards Document
