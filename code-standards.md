@@ -33,17 +33,15 @@ This is a wonderful resource that gives you examples of many different layouts a
 [DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
 [RESPONSIVE EMAILS THAT REALLY WORK](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/)
 
+####Email Started Kit
+[Started Kit for HTML Emails](https://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails)
+[Coding Emails Doesn't Have to Be Painful](https://seesparkbox.com/foundry/coding_emails_doesnt_have_to_be_painful)
+
 ####Campaign Monitor - GUIDES
 [DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
-[MOBILE EMAILS](http://www.campaignmonitor.com/guides/mobile/)  
-[MOBILE EMAIL DESIGN](http://www.campaignmonitor.com/guides/mobile/design/)  
-[CODING MOBILE EMAILS](https://www.campaignmonitor.com/guides/mobile/coding/)  
-[CODING RESPONSIVE EMAILS](https://www.campaignmonitor.com/guides/mobile/responsive/)  
-[TARGETING DEVICES WITH MEDIA QUERIES](https://www.campaignmonitor.com/guides/mobile/targeting/)  
-[OPTIMIZING IMAGES FOR MOBILE](https://www.campaignmonitor.com/guides/mobile/optimizing-images/)  
-[WILL IT WORK?](https://www.campaignmonitor.com/resources/will-it-work/)
-[CSS SUPPORT](http://www.campaignmonitor.com/css/)  
-[RESOURCES](https://www.campaignmonitor.com/resources/)
+[MOBILE RESPONSIVE EMAILS](http://www.campaignmonitor.com/guides/mobile/) 
+[WILL IT WORK](https://www.campaignmonitor.com/resources/will-it-work/)
+[CSS SUPPORT](http://www.campaignmonitor.com/css/)
 
 ####MailChimp - GUIDES
 [MAILCHIMP TEMPLATE TIPS - EMAIL DESIGN](http://templates.mailchimp.com/design/)
