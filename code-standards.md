@@ -17,8 +17,6 @@
 	2. Tips for Mobile/Responsive Emails
 
 
-
-
 * * *  	
 
 ##1. Resources: 
@@ -31,12 +29,13 @@ This is a wonderful resource that gives you examples of many different layouts a
 
 [A collection of patterns & modules for responsive emails](http://responsiveemailpatterns.com/)
 
-
 ####Most Up To Date Responsive Layout Email Articles
+[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
 [Responsive emails that really work](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/)  
 [Creating a Simple Responsive HTML Email](http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
 
-####Campaign Monitor - VERY INFORMATIVE   
+####Campaign Monitor - GUIDES
+[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
 [MOBILE EMAILS](http://www.campaignmonitor.com/guides/mobile/)  
 [MOBILE EMAIL DESIGN](http://www.campaignmonitor.com/guides/mobile/design/)  
 [CODING MOBILE EMAILS](https://www.campaignmonitor.com/guides/mobile/coding/)  
@@ -47,8 +46,15 @@ This is a wonderful resource that gives you examples of many different layouts a
 [CSS SUPPORT](http://www.campaignmonitor.com/css/)  
 [RESOURCES](https://www.campaignmonitor.com/resources/)
 
-####Emailology    
-[EMAILOLOGY](http://www.emailology.org/)   
+####MailChimp - GUIDES
+[MAILCHIMP TEMPLATE TIPS - EMAIL DESIGN](http://templates.mailchimp.com/design/)
+[MAILCHIMP TEMPLATE TIPS - EMAIL DEVELOPMENT](http://templates.mailchimp.com/development/)
+
+####Litmus - Templates Useful for pulling HTML for layout
+[LITMUS TEMPLATES - HTML DOWNLOADS](https://litmus.com/community/templates)
+
+####Email On Acid
+[DEVELOPMENT RESOURCES](https://www.emailonacid.com/blog/email-development)
 
 * * *  
  
