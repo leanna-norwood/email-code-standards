@@ -31,8 +31,7 @@ This is a wonderful resource that gives you examples of many different layouts a
 
 ####Most Up To Date Responsive Layout Email Articles
 [DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
-[Responsive emails that really work](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/)  
-[Creating a Simple Responsive HTML Email](http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
+[RESPONSIVE EMAILS THAT REALLY WORK](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/)
 
 ####Campaign Monitor - GUIDES
 [DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
