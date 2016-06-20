@@ -76,7 +76,7 @@ With so many email clients out there, it's hard to be consistent with each. Thes
 
 -  Don't use margins. If you use padding, use on `<td>` and not on `<p>` tags. Gmail doesn't read padding on `<p>` tags.
 
--  Don't give height to <table>, <td>, or <tr>
+-  Don't give height to `<table>`, `<td>`, or `<tr>`
 
 * * *  
 
@@ -84,8 +84,7 @@ With so many email clients out there, it's hard to be consistent with each. Thes
  
 ###3.1 Doctype
 
-This is a great DOCTYPE to test with because it is used by Gmail and Hotmail. It is very important to test with and without     
-a DOCTYPE because many clients strip it entirely - this effects paragraph margins & padding, centering, and box model padding.    
+This is a great DOCTYPE to test with because it is used by Gmail and Hotmail. It is very important to test with and without a DOCTYPE because many clients strip it entirely - this affects paragraph margins & padding, centering, and box model padding.    
       
 For more information on how the DOCTYPE effects your email, check out the following resources:
 [http://www.emailonacid.com/blog/details/C18/doctype_-_the_black_sheep_of_html_email_design](http://www.emailonacid.com/blog/details/C18/doctype_-_the_black_sheep_of_html_email_design)   

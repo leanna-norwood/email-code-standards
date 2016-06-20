@@ -30,22 +30,22 @@ This is a wonderful resource that gives you examples of many different layouts a
 [A collection of patterns & modules for responsive emails](http://responsiveemailpatterns.com/)
 
 ####Most Up To Date Responsive Layout Email Articles
-[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
+[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)	
 [RESPONSIVE EMAILS THAT REALLY WORK](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/)
 
 ####Email Started Kit
-[Started Kit for HTML Emails](https://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails)
+[Started Kit for HTML Emails](https://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails)	
 [Coding Emails Doesn't Have to Be Painful](https://seesparkbox.com/foundry/coding_emails_doesnt_have_to_be_painful)
 
 ####Campaign Monitor - GUIDES
-[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)
-[MOBILE RESPONSIVE EMAILS](http://www.campaignmonitor.com/guides/mobile/) 
-[WILL IT WORK](https://www.campaignmonitor.com/resources/will-it-work/)
+[DEVELOPMENT RESOURCES - THE ULTIMATE GUIDE](https://www.campaignmonitor.com/dev-resources/)	
+[MOBILE RESPONSIVE EMAILS](http://www.campaignmonitor.com/guides/mobile/)		
+[WILL IT WORK](https://www.campaignmonitor.com/resources/will-it-work/)			
 [CSS SUPPORT](http://www.campaignmonitor.com/css/)
 
 ####MailChimp - GUIDES
-[MAILCHIMP TEMPLATE TIPS - EMAIL DESIGN](http://templates.mailchimp.com/design/)
-[MAILCHIMP TEMPLATE TIPS - EMAIL DEVELOPMENT](http://templates.mailchimp.com/development/)
+[MAILCHIMP TEMPLATE TIPS - EMAIL DESIGN](http://templates.mailchimp.com/design/)		
+[MAILCHIMP TEMPLATE TIPS - EMAIL DEVELOPMENT](http://templates.mailchimp.com/development/)		
 
 ####Litmus - Templates Useful for pulling HTML for layout
 [LITMUS TEMPLATES - HTML DOWNLOADS](https://litmus.com/community/templates)
@@ -76,7 +76,7 @@ With so many email clients out there, it's hard to be consistent with each. Thes
 
 -  Don't use margins. If you use padding, use on `<td>` and not on `<p>` tags. Gmail doesn't read padding on `<p>` tags.
 
--  Don't give height to <table>, <td>, or <tr>
+-  Don't give height to `<table>`, `<td>`, or `<tr>`
 
 * * *  
 
@@ -84,8 +84,7 @@ With so many email clients out there, it's hard to be consistent with each. Thes
  
 ###3.1 Doctype
 
-This is a great DOCTYPE to test with because it is used by Gmail and Hotmail. It is very important to test with and without     
-a DOCTYPE because many clients strip it entirely - this effects paragraph margins & padding, centering, and box model padding.    
+This is a great DOCTYPE to test with because it is used by Gmail and Hotmail. It is very important to test with and without a DOCTYPE because many clients strip it entirely - this affects paragraph margins & padding, centering, and box model padding.    
       
 For more information on how the DOCTYPE effects your email, check out the following resources:
 [http://www.emailonacid.com/blog/details/C18/doctype_-_the_black_sheep_of_html_email_design](http://www.emailonacid.com/blog/details/C18/doctype_-_the_black_sheep_of_html_email_design)   
